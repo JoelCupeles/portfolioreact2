@@ -1,0 +1,11 @@
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2em;
+    font-family: 'Arial', sans-serif;
+}
+
+.portfolio h1 {
+    color: #333;
+}
