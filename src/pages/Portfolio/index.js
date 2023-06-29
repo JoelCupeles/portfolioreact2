@@ -15,7 +15,7 @@ const Portfolio = () => {
             title: 'Weather Dashboard', 
             description: 'The Weather Dashboard is a web application that allows users to search for the weather in a specific city.',
             link: 'https://joelcupeles.github.io/Weather-Forecast/',
-            image: ''
+            image: 'weather.png'
         }
         // more projects 
     ];
